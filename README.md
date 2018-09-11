@@ -1,10 +1,10 @@
 # biopage
-Hello, world. 
+
+**Hello, world.** :hankey:
 
 This is Haily. 
 
+Let's have some fun.
 
-![alt text](biopage/Haily.jpg)
+![Haily](Haily.jpg)
     
-
-Let's have some fun. 
